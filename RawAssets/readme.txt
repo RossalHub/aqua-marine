@@ -1,0 +1,1 @@
+This folder contains all the raw files of the assets made for the game, and are what the engine-ready files are exported from. Therefore, don't try importing anything from here into Unreal.
